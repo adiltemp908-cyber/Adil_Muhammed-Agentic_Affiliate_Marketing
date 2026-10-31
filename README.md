@@ -5,6 +5,8 @@
 ## Plan
 
 The vision is to have a llm equiped with amazon dataset who will shortlist the items from database based on the users requirements and provide further details and reviews from websearch. The link will be replaced with our affliate link. This can be advertised on a platfrom as a new way to search for products as amazon just shows promoted advertised products or their own products first. This is a way to get users to use this service and generate  business.<br>
+**Updated project:** [Agentic Affiliate Shopping Platform](https://github.com/adiltemp908-cyber/Agentic_Affiliate_Shopping_Platform) — the new cross-retailer platform with local models, conversational search, and a screenshot showcase.<br>
+
 Video link - https://drive.google.com/file/d/1zDaVj50bFbdnsjEbbnHE1a2lXJLHhsmX/view?usp=drive_link
 
 ---
